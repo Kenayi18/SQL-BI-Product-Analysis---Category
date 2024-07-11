@@ -4,7 +4,6 @@ This project uses SQL and Power BI to address key business questions about sales
 - Total Quantity Sold by Product Category:
 - Average Sales Per Order by Category:
 - Monthly Sales by Product Category:
-- Top selling products by Revenue
 
 ![servershot](https://github.com/Kenayi18/SQL-BI-Product-Analysis---Category/assets/173837738/9df53f9e-9015-4b98-a5ac-56476c894236)
 
