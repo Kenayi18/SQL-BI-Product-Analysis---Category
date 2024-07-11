@@ -13,6 +13,7 @@ The SQL generated dataset used for this project can be found in 'SQP_Project.sql
 ### Tools
 Microsoft SQL Server [Free Download](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads)
 Power BI Desktop [Free Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
+Microsft Excel [free Download](https://www.microsoft.com/en-gb/microsoft-365/excel)
 
 ### Data Cleaning and Preparation
 For all the SQL Queries used in this project, please see the sql file attached
